@@ -5,9 +5,9 @@
         "version": "v3",
         "captcha_solver": "anticaptcha",
         "keys": {
-            "2captcha": "YOUR 2CAPTCHA KEY",
-            "capmonster": "YOUR CAPMONSTER KEY",
-            "anticaptcha": "YOUR ANTICAPTCHA KEY"
+            "2captcha": "3f49eb02a6464b718c3678c2f269a543",
+            "capmonster": "0e24cebdf96e7fd0f8b576ec802fd835",
+            "anticaptcha": "8c6980c11da872b636698c06824ca53f"
         }
     },
     "password": {
